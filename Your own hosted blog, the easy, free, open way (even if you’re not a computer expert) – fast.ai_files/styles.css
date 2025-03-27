@@ -1,0 +1,19 @@
+/* css styles */
+:root {
+  --bs-body-color: #3b3b3b;
+}
+
+figure>figcaption {
+  text-align: center;
+  font-style: italic;
+  margin-top: 0;
+}
+
+.blockquote {
+    color: #838b92;
+}
+
+.fai-imager {
+  float:right;
+  margin:1rem;
+}
