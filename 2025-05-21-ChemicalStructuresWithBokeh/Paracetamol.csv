@@ -1,0 +1,5 @@
+﻿Step,SMILES
+0,C1=CC=CC(=C1)OC
+1,C1=C(C=CC(=C1)O[H])[N+](=O)[O-]
+2,C1=C(C=CC(=C1)O[H])N([H])[H]
+3,C1=C(C=CC(=C1)O[H])N([H])C(C)=O
