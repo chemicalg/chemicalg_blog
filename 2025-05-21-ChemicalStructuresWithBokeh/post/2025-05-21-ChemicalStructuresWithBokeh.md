@@ -10,6 +10,8 @@ First let's define what we will be visualising. I think something simple and ame
 
 As an example, let's look at the chemical synthesis of [paracetamol](https://en.wikipedia.org/wiki/Paracetamol#Chemistry) and how the molecular weight changes at each step of the route.
 
+The code data can also be found [here](https://github.com/chemicalg/chemicalg_blog/tree/8cc200724bba5a6e04d83072cf303eaa1c40c65e/2025-05-21-ChemicalStructuresWithBokeh).
+
 
 ```python
 #import modules
