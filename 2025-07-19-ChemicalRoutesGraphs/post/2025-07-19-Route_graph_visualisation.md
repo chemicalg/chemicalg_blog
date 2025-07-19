@@ -126,7 +126,7 @@ plt.show()
 
 
     
-![png](2025-07-19-output_8_0.png)
+![png](/images/2025-07-19-output_8_0.png)
     
 
 
@@ -305,7 +305,7 @@ plt.show()
 
 
     
-![png](2025-07-19-output_15_0.png)
+![png](/images/2025-07-19-output_15_0.png)
     
 
 
@@ -351,7 +351,7 @@ plt.show()
 
 
     
-![png](2025-07-19-output_18_0.png)
+![png](/images/2025-07-19-output_18_0.png)
     
 
 
@@ -454,7 +454,7 @@ plt.show()
 
 
     
-![png](2025-07-19-output_24_0.png)
+![png](/images/2025-07-19-output_24_0.png)
     
 
 
@@ -613,7 +613,7 @@ fig, ax = RouteGraphWithStructures(route, route_df)
 
 
     
-![png](2025-07-19-output_33_0.png)
+![png](/images/2025-07-19-output_33_0.png)
     
 
 
