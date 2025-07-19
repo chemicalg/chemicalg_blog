@@ -1,0 +1,4 @@
+﻿Step,Input SMILES,Output SMILES,Input Name,Output Name
+1,C1=CC=CC(=C1)OC,C1=C(C=CC(=C1)O[H])[N+](=O)[O-],1',2'
+2,C1=C(C=CC(=C1)O[H])[N+](=O)[O-],C1=C(C=CC(=C1)O[H])N([H])[H],2',3'
+3,C1=C(C=CC(=C1)O[H])N([H])[H],C1=C(C=CC(=C1)O[H])N([H])C(C)=O,3',TM
