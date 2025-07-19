@@ -619,4 +619,8 @@ fig, ax = RouteGraphWithStructures(route, route_df)
 
 This is great. The synthesis of paracetamol is very simple as an example. It would be great to see this code applied to more complex and longer routes. 
 
+As always you can find all of the code and input data [here](https://github.com/chemicalg/chemicalg_blog/tree/main/2025-07-19-ChemicalRoutesGraphs).
+
 Let me know if you find this useful.
+
+
