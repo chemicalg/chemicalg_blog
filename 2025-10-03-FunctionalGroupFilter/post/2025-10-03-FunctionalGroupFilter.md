@@ -651,7 +651,7 @@ img
 
 
     
-![png](output_13_0.png)
+![png](2025-10-03-output_13_0.png)
     
 
 
@@ -659,6 +659,8 @@ img
 That's nice to see.
 
 I hope you find this functionality useful and sensible. If you spot any errors or improvements, please contact me.
+
+As always the code itself can be found [here](https://github.com/chemicalg/chemicalg_blog/tree/main/2025-10-03-FunctionalGroupFilter).
 
 Here is the code for the Functional Group Recognition Functions
 
